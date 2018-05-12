@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37213'
     url: http://www.gutenberg.org/2009/agents/37213
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34818#Stained-Glass-Tours-in-England
 gutenberg_issued: '2011-01-02'
 gutenberg_type: Text
 identifiers:
